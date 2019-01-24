@@ -1,0 +1,172 @@
+[ENGLISH]
+
+The mission of this trackable is to visit all 50 states of the USA and return back to belgium afterwards.
+
+[DUTCH]
+
+De missie van deze trackable is om alle 50 staten van de VS te bezoeken en daarna terug te keren naar België.
+
+[FRENCH]
+
+La mission de ce trackable est de visiter tous les 50 états des Etats-Unis et de revenir en Belgique par suite.
+
+[SPANISH]
+
+La misión de este seguimiento es visitar los 50 estados de los Estados Unidos de América y regresar a Bélgica después.
+
+<table style="border-collapse: collapse; width: 100%;"><tr><th style="text-align: left; padding: 8px; background-color: #12864F; color: white;">Name</th><th style="text-align: left; padding: 8px; background-color: #12864F; color: white;">Visited</th></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Alabama</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Alaska</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Arizona</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Arkansas</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">California</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Colorado</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Connecticut</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Delaware</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Florida</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Georgia</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Hawaii</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Idaho</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Illinois</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Indiana</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Iowa</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Kansas</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Kentucky</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Louisiana</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Maine</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Maryland</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Massachusetts</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Michigan</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Minnesota</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Mississippi</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Missouri</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Montana</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Nebraska</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Nevada</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">New Hampshire</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">New Jersey</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">New Mexico</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">New York</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">North Carolina</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">North Dakota</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Ohio</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Oklahoma</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Oregon</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Pennsylvania</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Rhode Island</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">South Carolina</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">South Dakota</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Tennessee</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Texas</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Utah</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Vermont</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Virginia</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Washington</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">West Virginia</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Wisconsin</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+<tr><td style="border:1px solid #dddddd;text-align:left;padding:8px;">Wyoming</td><td style="border:1px solid #dddddd;text-align:left;padding:8px;background:#EF9A9A;color:white">X</td></tr>
+</table>
+
+Found --> #80CBC4
+
+"Alabama",
+"Alaska",
+"Arizona",
+"Arkansas",
+"California",
+"Colorado",
+"Connecticut",
+"Delaware",
+"Florida",
+"Georgia",
+"Hawaii",
+"Idaho",
+"Illinois",
+"Indiana",
+"Iowa",
+"Kansas",
+"Kentucky",
+"Louisiana",
+"Maine",
+"Maryland",
+"Massachusetts",
+"Michigan",
+"Minnesota",
+"Mississippi",
+"Missouri",
+"Montana",
+"Nebraska",
+"Nevada",
+"New Hampshire",
+"New Jersey",
+"New Mexico",
+"New York",
+"North Carolina",
+"North Dakota",
+"Ohio",
+"Oklahoma",
+"Oregon",
+"Pennsylvania",
+"Rhode Island",
+"South Carolina",
+"South Dakota",
+"Tennessee",
+"Texas",
+"Utah",
+"Vermont",
+"Virginia",
+"Washington",
+"West Virginia",
+"Wisconsin",
+"Wyoming"
+
+"AL",
+"AK",
+"AZ",
+"AR",
+"CA",
+"CO",
+"CT",
+"DE",
+"FL",
+"GA",
+"HI",
+"ID",
+"IL",
+"IN",
+"IA",
+"KS",
+"KY",
+"LA",
+"ME",
+"MD",
+"MA",
+"MI",
+"MN",
+"MS",
+"MO",
+"MT",
+"NE",
+"NV",
+"NH",
+"NJ",
+"NM",
+"NY",
+"NC",
+"ND",
+"OH",
+"OK",
+"OR",
+"PA",
+"RI",
+"SC",
+"SD",
+"TN",
+"TX",
+"UT",
+"VT",
+"VA",
+"WA",
+"WV",
+"WI",
+"WY"
